@@ -1,6 +1,6 @@
 # FuelAgencyApp
 ## Overview
-The Fuel Agency Application is a backend application designed using **Java, Spring Boot, MySQL, and REST APIs**. It automates key processes such as cylinder type/status updates and refill tracking while integrating email notifications for efficient management.
+The Fuel Agency Application is a Full-Stack application designed using **Java, Spring Boot, MySQL, REST APIs, Thymeleaf**. It automates key processes such as cylinder type/status updates and refill tracking while integrating email notifications for efficient management.
 
 ## Features
 ### - Automated Cylinder Management
